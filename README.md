@@ -1,6 +1,6 @@
 # _Goodbye World_
 
-#### By _**Caleb Coughenour**_
+#### By _**Caleb Coughenour and Jarret Jeter**_
 
 #### _An easy webpage that says goodbye in multiple languages_
 
@@ -24,3 +24,5 @@ _This program was set up as a demonstration of simple HTML. It says "Goodbye, Fr
 ## License
 
 _Unlicensed_
+
+Copyright (c) _3/16/22_ _Caleb Coughenour and Jarret Jeter_
